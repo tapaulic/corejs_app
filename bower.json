@@ -2,7 +2,7 @@
   "name": "corejs_app",
   "description": "Describe this app",
   "authors": [
-    "Your name here"
+    "Your name here."
   ],
   "private": true,
   "dependencies": {
